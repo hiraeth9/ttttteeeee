@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello world!2");
         System.out.println("Hello world!9");
         System.out.println("master");
+        System.out.println("hot");
     }
 }
